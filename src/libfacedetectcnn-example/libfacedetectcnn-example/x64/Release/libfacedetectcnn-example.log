@@ -1,0 +1,14 @@
+﻿  libfacedetectcnn-example.cpp
+libfacedetectcnn-example.cpp(67): warning C4305: “初始化”: 从“double”到“float”截断
+libfacedetectcnn-example.cpp(68): warning C4305: “初始化”: 从“double”到“float”截断
+libfacedetectcnn-example.cpp(72): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+libfacedetectcnn-example.cpp(73): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+libfacedetectcnn-example.cpp(74): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+libfacedetectcnn-example.cpp(75): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  4 of 204 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  libfacedetectcnn-example.vcxproj -> E:\libfacedetection\example\libfacedetectcnn-example\x64\Release\libfacedetectcnn-example.exe
+  libfacedetectcnn-example.vcxproj -> E:\libfacedetection\example\libfacedetectcnn-example\x64\Release\libfacedetectcnn-example.pdb (Full PDB)
